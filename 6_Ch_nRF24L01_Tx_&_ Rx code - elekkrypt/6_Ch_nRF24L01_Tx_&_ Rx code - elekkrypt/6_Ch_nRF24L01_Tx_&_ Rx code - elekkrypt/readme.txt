@@ -1,4 +1,4 @@
-This compressed file contains:
+This folder contains:
 1. code for 6 channel transmitter and receiver using nrf24l01 module
 2. rf24-master library for nrf module
 
